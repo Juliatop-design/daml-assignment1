@@ -1,0 +1,21 @@
+id,file,source,licence,title,author,publication_year,language
+gut1342,data/gut1342.txt,https://www.gutenberg.org/ebooks/1342,Public domain in the USA,Pride and Prejudice,Jane Austen,1813,en
+gut84,data/gut84.txt,https://www.gutenberg.org/ebooks/84,Public domain in the USA,Frankenstein,Mary Shelley,1818,en
+gut11,data/gut11.txt,https://www.gutenberg.org/ebooks/11,Public domain in the USA,Alice's Adventures in Wonderland,Lewis Carroll,1865,en
+gut98,data/gut98.txt,https://www.gutenberg.org/ebooks/98,Public domain in the USA,A Tale of Two Cities,Charles Dickens,1859,en
+gut2701,data/gut2701.txt,https://www.gutenberg.org/ebooks/2701,Public domain in the USA,Moby Dick,Herman Melville,1851,en
+gut76,data/gut76.txt,https://www.gutenberg.org/ebooks/76,Public domain in the USA,Adventures of Huckleberry Finn,Mark Twain,1884,en
+gut1260,data/gut1260.txt,https://www.gutenberg.org/ebooks/1260,Public domain in the USA,Jane Eyre,Charlotte Bronte,1847,en
+gut768,data/gut768.txt,https://www.gutenberg.org/ebooks/768,Public domain in the USA,Wuthering Heights,Emily Bronte,1847,en
+gut514,data/gut514.txt,https://www.gutenberg.org/ebooks/514,Public domain in the USA,Little Women,Louisa May Alcott,1868,en
+gut120,data/gut120.txt,https://www.gutenberg.org/ebooks/120,Public domain in the USA,Treasure Island,Robert Louis Stevenson,1883,en
+gut345,data/gut345.txt,https://www.gutenberg.org/ebooks/345,Public domain in the USA,Dracula,Bram Stoker,1897,en
+gut174,data/gut174.txt,https://www.gutenberg.org/ebooks/174,Public domain in the USA,The Picture of Dorian Gray,Oscar Wilde,1890,en
+gut1400,data/gut1400.txt,https://www.gutenberg.org/ebooks/1400,Public domain in the USA,Great Expectations,Charles Dickens,1861,en
+gut33,data/gut33.txt,https://www.gutenberg.org/ebooks/33,Public domain in the USA,The Scarlet Letter,Nathaniel Hawthorne,1850,en
+gut36,data/gut36.txt,https://www.gutenberg.org/ebooks/36,Public domain in the USA,The War of the Worlds,H. G. Wells,1898,en
+gut583,data/gut583.txt,https://www.gutenberg.org/ebooks/583,Public domain in the USA,The Woman in White,Wilkie Collins,1860,en
+gut2097,data/gut2097.txt,https://www.gutenberg.org/ebooks/2097,Public domain in the USA,The Sign of the Four,Arthur Conan Doyle,1890,en
+gut73,data/gut73.txt,https://www.gutenberg.org/ebooks/73,Public domain in the USA,The Red Badge of Courage,Stephen Crane,1895,en
+gut940,data/gut940.txt,https://www.gutenberg.org/ebooks/940,Public domain in the USA,The Last of the Mohicans,James Fenimore Cooper,1826,en
+gut969,data/gut969.txt,https://www.gutenberg.org/ebooks/969,Public domain in the USA,The Tenant of Wildfell Hall,Anne Bronte,1848,en
