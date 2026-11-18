@@ -75,6 +75,8 @@ This dataset can be used to explore differences in vocabulary and writing styles
 
 However, the dataset contains only 20 selected novels and is not representative of all English-language literature from the 19th century. Well known authors may be overrepresented, while less known works and novels unavailable on Project Gutenberg are excluded. Another important point is that the original text files still contain Project Gutenberg headers and licence information. These would need to be removed before conducting accurate text analysis, as they could affect results such as word frequencies.
 
+The dataset mainly represents 19th-century written English by British and American novelists. It does not represent modern English, spoken language or the full diversity of authors writing during this period.
+
 ## 2h) Ethical and Legal Aspects
 
 The dataset contains publicly available historical novels and does not intentionally collect private or sensitive information about living individuals. However, some novels contain outdated language and social attitudes that should be considered when analysing and interpreting the texts.
