@@ -97,6 +97,6 @@ Licence: https://creativecommons.org/licenses/by/4.0/
 
 If you use this dataset, please cite it as follows:
 
-Juliatop-design. (2026). 19th-Century English Novels Dataset [Dataset]. GitHub. [Repository URL]
+Juliatop-design. (2026). 19th-Century English Novels Dataset [Dataset]. GitHub. https://github.com/Juliatop-design/daml-assignment1
 
 When using individual novels, users should also acknowledge the original authors and Project Gutenberg as the source.
